@@ -1,0 +1,481 @@
+,Week,Date,News,Open,High,Low,Close,Volume,Label,Key Events,positive,negative,neutral
+0,1,2019-01-04,"Amazon has sold over 100 million devices with its Alexa digital assistant, according to The Verge. The company is cautious about releasing hardware sales figures and did not disclose holiday numbers for the Echo Dot. Over 150 products feature Alexa, and more than 28,000 smart home",47.91,47.919998,47.095001,46.419842,111448000,0,"1. Amazon: The e-commerce giant
+      2. Alexa digital assistant: Amazon's voice assistant technology
+      3. Over 100 million devices sold: Significant sales figure for Alexa-enabled devices
+      4. The Verge: Source of the information
+      5. Over 150 products: Number of products with Alexa integration
+      6. More than 28,000 smart home devices: Extensive range of compatible smart home devices
+
+Summary:
+Amazon's Alexa digital assistant has sold over 100 million devices, according to The Verge. Over 150 products and more than 28,000 smart home",,,neutral_event
+1,1,2019-01-04,"The stock market rebounded strongly on Friday following positive news about US-China trade talks, a better-than-expected jobs report, and dovish comments from Federal Reserve Chairman Jerome Powell. The Dow Jones Industrial Average rose over 746 points, with the S&P 500 and Nasdaq Com",47.91,47.919998,47.095001,46.419842,111448000,1,"1. US-China Trade Talks: Positive developments in trade negotiations between the United States and China.
+      2. Stock Market: The market experienced a significant rebound on Friday.
+      3. Dow Jones Industrial Average, S&P 500, Nasdaq Composite: Specific stock market indices that showed gains.
+      4. Rise over 746 points (Dow Jones), better-than-expected jobs report: Significant increases in these economic indicators.
+      5. Dovish comments from Federal Reserve Chairman Jerome Powell: The Fed Chair's remarks suggested a more accommodative monetary policy stance.
+
+   Summary of Topics:
+   1",positive_event,,
+2,1,2019-01-04," The Chinese central bank announced a fifth reduction in the required reserve ratio (RRR) for banks, freeing up approximately 116.5 billion yuan for new lending. This follows mounting concerns about China's economic health amid slowing domestic demand and U.S. tariffs on exports. Premier Li Keqiang",47.91,47.919998,47.095001,46.419842,111448000,0,"1. Chinese central bank
+      2. Fifth reduction in Required Reserve Ratio (RRR) for banks
+      3. Approximately 116.5 billion yuan freed up for new lending
+      4. Economic concerns in China
+      5. Slowing domestic demand
+      6. U.S. tariffs on exports
+
+Topics:
+- Chinese central bank policy
+- Required Reserve Ratio (RRR) reduction
+- New lending and economic stimulus
+- Concerns about China's economy
+- Domestic demand slowdown
+- US tariffs on Chinese exports",,,neutral_event
+3,2,2019-01-11," Wall Street experienced a decline after the opening bell on Friday, following five consecutive days of gains. The S&P 500 dropped 13 points or 0.54%, with the Dow decreasing 128 points or 0.54%, and the Nasdaq Composite losing 37 points or ",62.384998,63.982498,62.290001,62.571354,151125200,0,"1. Topic: Stock Market (Wall Street, S&P 500, Dow, Nasdaq Composite)
+      2. Event: Decline after five consecutive days of gains
+      3. Summary: The stock market, specifically Wall Street and its indices (S&P 500, Dow, Nasdaq Composite), experienced a decline following five straight days of growth.",,,neutral_event
+4,2,2019-01-11," Several Chinese retailers, including Alibaba-backed Suning and JD.com, have drastically reduced iPhone prices due to weak sales in China, which prompted Apple's recent revenue warning. Discounts for the latest XR model range from 800 to 1,200 yuan. These price",62.384998,63.982498,62.290001,62.571354,151125200,-1,"1. Topic 1: Chinese Retailers (Suning, JD.com)
+      2. Topic 2: Apple
+      3. Topic 3: iPhone Sales (weak sales in China)
+      4. Topic 4: Price Reductions (800-1,200 yuan for latest XR model)
+      5. Event: Chinese retailers have significantly lowered the prices of iPhones due to weak sales in China, causing Apple to issue a revenue warning.",,negative_event,
+5,2,2019-01-11," Green Dot, GDOT, is a bank holding company with a wide distribution network and impressive growth. Its product offerings include bank accounts, debit and credit cards, with a focus on perks. The firm's platform business, ""banking as a service,"" powers offerings for partners such as Apple Pay Cash, Walmart Money",62.384998,63.982498,62.290001,62.571354,151125200,1,"1. Green Dot (GDOT) - A bank holding company with growth and wide distribution network.
+      2. Product offerings - Bank accounts, debit and credit cards.
+      3. Focus - Perks and platform business.
+      4. Platform business description - ""Banking as a service,"" powers offerings for partners.
+
+Summary:
+- Green Dot (GDOT)
+- Banking services and growth
+- Product offerings: bank accounts, debit/credit cards
+- Focus on perks
+- Platform business: ""banking as a service""
+- Partners: Apple Pay Cash, Walmart Money.",positive_event,,
+6,3,2019-01-18," In the article, two Japanese electronics companies, Nidec and Yaskawa Electric, announced profit decline warnings due to the US-China trade war. Nidec's profit outlook was cut by a quarter because of weak demand from China and smartphone markets. Yaskawa Electric also lowered its annual operating profit for the second",39.375,39.470001,38.994999,37.902481,135004000,-1,"1. Event: Japanese electronics companies, Nidec and Yaskawa Electric, announce profit decline warnings
+      2. Topic 1: US-China trade war
+         - Keywords: trade war, US, China
+      3. Topic 2: Weak demand from China
+         - Keywords: weak demand, China
+      4. Topic 3: Smartphone markets
+         - Keywords: smartphone markets
+      5. Event: Nidec cuts profit outlook by a quarter
+         - Keywords: profit outlook, cut, quarter
+      6. Event: Yaskawa Electric lowers annual operating profit for the second time
+         - Keywords: annual operating",,negative_event,
+7,3,2019-01-18," Foxconn, Apple's biggest iPhone assembler, has let go around 50,000 contract workers in China earlier than usual this year. The scale of the cuts is not necessarily deeper than previous years but significantly earlier. It's unusual to ask assembly line workers to leave before the end of the year. Foxconn was",39.375,39.470001,38.994999,37.902481,135004000,0,"1. Topic: Foxconn
+         Summary: Foxconn, Apple's biggest iPhone assembler, undergoes early workforce reduction, letting go approximately 50,000 contract workers in China.
+
+      2. Topic: Apple
+         Summary: Apple's supplier, Foxconn, initiates early termination of contracts for around 50,000 assembly line workers.
+
+      3. Topic: iPhone assembler
+         Summary: Foxconn, a significant iPhone assembler, dismisses approximately 50,000 contract workers earlier than usual in China.
+
+      4. Topic: Workforce reduction
+         Summary: Around 50",,,neutral_event
+8,3,2019-01-18,"In a German court ruling, Apple has been banned from using part of a press release stating iPhones were available through carriers and resellers in Germany. The ruling followed a patent dispute between Apple and Qualcomm, which led to the ban on iPhone 7 and 8 sales at Apple retail stores in December. The court found that the press",39.375,39.470001,38.994999,37.902481,135004000,0,"1. Apple: The tech company involved in the legal dispute.
+      2. German court: The judicial body that handed down the ruling.
+      3. Patent dispute: A legal disagreement between Apple and Qualcomm regarding intellectual property rights.
+      4. iPhone 7 and 8: Specific models of Apple's smartphones affected by the sales ban.
+      5. Press release: A communication document issued by Apple announcing availability of iPhones through carriers and resellers in Germany.
+      6. Ban on sales: The restriction imposed on selling iPhone 7 and 8 at Apple retail stores due to the court ruling.
+
+Topics:
+1. Apple
+2. German court
+",,,neutral_event
+9,4,2019-01-25," The Indian Cellular and Electronics Association (ICEA) representing major smartphone makers such as Apple, Samsung, Oppo, and Foxconn, among others, submitted a 174-page document to the government calling for increased export credits on devices, tariff cuts on machinery imports, and other measures aimed at making India a",38.869999,39.532501,38.580002,38.129673,134142000,1,"1. Topic: Indian Cellular and Electronics Association (ICEA) Submission to Government
+         - ICEA, major smartphone makers (Apple, Samsung, Oppo, Foxconn), submission to government
+         - Request for increased export credits on devices, tariff cuts on machinery imports, other measures
+         - Goal: Making India a competitive manufacturing hub
+
+      News Articles: The European Union (EU) has launched legal action against the United States over subsidies given to Boeing, accusing Washington of breaking international rules and distorting competition with Airbus.
+
+      1. Topic: EU vs US - Legal Action over Subsidies for Boeing and Air",positive_event,,
+10,4,2019-01-25," Mastercard continues its pursuit of a bankcard clearing license in China, with plans to submit another application soon. The company previously applied in 2017 but withdrew voluntarily. American Express recently became the first US card network to gain direct access to China's payments network, bypassing UnionPay's monopoly. Master",38.869999,39.532501,38.580002,38.129673,134142000,0,"1. Topic: Mastercard's pursuit of a bankcard clearing license in China
+         - Keywords: Mastercard, China, bankcard clearing license
+
+      2. Topic: Mastercard's previous application attempt in 2017
+         - Keywords: Mastercard, application, 2017
+
+      3. Topic: American Express gaining direct access to China's payments network
+         - Keywords: American Express, direct access, China, payments network
+
+      4. Topic: UnionPay's monopoly in China's payments network
+         - Keywords: UnionPay, monopoly, China, payments network
+
+Output:
+[
+",,,neutral_event
+11,4,2019-01-25," Mastercard, a U.S. payments card company listed on NYSE as MA, is still determined to apply for a bankcard clearing license in China despite voluntarily withdrawing an application in 2018. The company aims to present another application soon, as American Express became the first U.S. card network to gain direct access",38.869999,39.532501,38.580002,38.129673,134142000,0,"1. Mastercard: A U.S. payments card company listed on NYSE (New York Stock Exchange) with the ticker symbol MA.
+      2. China: The country where Mastercard is seeking a bankcard clearing license.
+      3. Bankcard clearing license: The type of license Mastercard is applying for in China.
+      4. Voluntarily withdrew application (in 2018): An action taken by Mastercard in the past regarding their previous application for a bankcard clearing license in China.
+      5. American Express: A U.S. card network that has gained direct access to China's market.
+
+Topics:
+- Mastercard
+- NYSE (New",,,neutral_event
+12,5,2019-01-31," The UAE, through a hacking team of American mercenaries, reportedly targeted governments and individuals in rival countries as well as American citizens, according to a Reuters investigation. However, the UAE's Minister of State for Foreign Affairs Anwar Gargash denied targeting friendly countries or American citizens in a cyberprogram called Project",41.5275,42.25,41.139999,40.227589,162958400,0,"1. UAE: The United Arab Emirates is the main subject of this news article.
+      2. Hacking team of American mercenaries: A group of mercenaries from America are the agents involved in the reported activities.
+      3. Targeted governments and individuals: The entities that were targeted by the hacking team are not explicitly stated, but they can be inferred to be from rival countries.
+      4. Rival countries: Countries that have opposing interests or conflict with the UAE.
+      5. American citizens: Individuals who hold citizenship in the United States.
+      6. Cyberprogram called Project: A covert operation or program carried out by the UAE using",,,neutral_event
+13,5,2019-01-31," Kanye West and Tidal's corporate parent have resolved a lawsuit accusing them of fraudulently inducing fans to subscribe to Tidal by tweeting that his album ""The Life of Pablo"" could only be obtained there. The plaintiff, Justin Baker Rhett, claimed the tweet was false as the album later",41.5275,42.25,41.139999,40.227589,162958400,0,"1. **Lawsuit**: Kanye West and Tidal's corporate parent have resolved a lawsuit.
+   2. **Plaintiff (Justin Baker Rhett)**: Accused Kanye West and Tidal of fraudulently inducing fans to subscribe to Tidal.
+   3. **Alleged Infringement**: Tweet claiming ""The Life of Pablo"" could only be obtained on Tidal was false.
+   4. **Topic 1 - Lawsuit**: Lawsuit over allegations of fraudulent inducement regarding Tidal subscription and Kanye West's album.
+   5. **Topic 2 - Plaintiff (Justin Baker Rhett)**:",,,neutral_event
+14,5,2019-01-31,"The United Arab Emirates (UAE) denied on Thursday targeting friendly countries or American citizens with its cyberspying program, Project Raven. Reuters reported that the program, which involved a group of American intelligence contractors, targeted governments, dissidents, and human rights activists of rival nations, as well as embassy",41.5275,42.25,41.139999,40.227589,162958400,0,"1. UAE: The United Arab Emirates
+      2. Cyberspying program: Project Raven
+      3. Denial: UAE denies targeting friendly countries or American citizens
+      4. Targeted entities: governments, dissidents, human rights activists of rival nations, embassies
+      5. Keywords: UAE, cyberspying program, Project Raven, denial, governments, dissidents, human rights activists, embassies
+
+Summary:
+- The UAE denied targeting friendly countries or American citizens with its cyber espionage program, Project Raven.
+- Reports from Reuters indicated that the program involved a group of American intelligence contract",,,neutral_event
+15,5,2019-02-01," Apple acknowledged a privacy flaw in its FaceTime chat software that allowed users to hear others before they answered the call. The issue was discovered by a 14-year-old boy and his mother, who faced difficulties in reporting it to Apple for nine days. Apple turned off the group chat feature and promised a fix. New York's governor",38.7225,39.712502,38.557499,38.16835,148158800,0,"1. Topic 1: Apple FaceTime privacy flaw
+         * Description: Apple acknowledged a privacy issue in their FaceTime chat software that allowed users to hear others before they answered the call.
+         * Keywords: Apple, FaceTime, privacy flaw, hear others, before answering
+
+      2. Topic 2: Discovery of the issue
+         * Description: The issue was discovered by a 14-year-old boy and his mother.
+         * Keywords: discovered, 14-year-old boy, mother
+
+      3. Topic 3: Reporting the issue to Apple
+         * Description: They faced difficulties in reporting it to Apple for nine days.
+        ",,,neutral_event
+16,5,2019-02-01," Foxconn Technology announced on Friday that it will proceed with building a Gen 6 fab facility in Wisconsin, following conversations between its chairman and U.S. President Donald Trump. The $10 billion campus, which was the largest investment for a foreign company in U.S. history when announced in 2017, faced criticism and uncertainty",38.7225,39.712502,38.557499,38.16835,148158800,1,"Topic 1:
+      - Foxconn Technology
+      - Building a Gen 6 fab facility
+      - Wisconsin
+      
+      Summary: Foxconn Technology plans to construct a Gen 6 fabrication facility in Wisconsin.",positive_event,,
+17,5,2019-02-01," A Chinese court sentenced a Didi Chuxing driver, Zhong Yuan, to death for raping and killing a female passenger last year. The brutal crime sparked public and government criticism of the ride-hailing company, prompting it to suspend its carpool service Hitch and overhaul its business with stricter",38.7225,39.712502,38.557499,38.16835,148158800,-1,"1. Topic 1: Didi Chuxing (ride-hailing company)
+      2. Topic 2: Zhong Yuan (Didi Chuxing driver)
+      3. Topic 3: Rape and murder of a female passenger
+      4. Event 1: A Chinese court sentenced Zhong Yuan to death for the crime.
+      5. Event 2: The brutal crime sparked public and government criticism of Didi Chuxing.
+      6. Event 3: Didi Chuxing suspended its carpool service Hitch in response.
+      7. Event 4: The company is overhauling its business with stricter",,negative_event,
+18,6,2019-02-05," Wall Street rallied on Tuesday, with tech and consumer discretionary stocks leading gains following upbeat earnings reports from Est e Lauder and Ralph Lauren. Tech giant Alphabet reported better than expected quarterly revenue and profit but concerns over higher spending sent its shares down. Despite a positive fourth-quarter earnings season and lower expectations for the",52.459999,53.162498,52.032501,50.767143,127985200,1,"1. Wall Street Rally: Tech and consumer discretionary sectors leading, Estée Lauder and Ralph Lauren reporting upbeat earnings.
+      2. Alphabet: Better than expected Q4 revenue and profit, but higher spending concerns causing share decrease.
+      3. Topics:
+         a. Wall Street Rally
+         b. Tech sector gains
+         c. Consumer discretionary sector gains
+         d. Estée Lauder - upbeat earnings
+         e. Ralph Lauren - upbeat earnings
+         f. Alphabet - better than expected Q4 revenue and profit
+         g. Alphabet - higher spending concerns.",positive_event,,
+19,6,2019-02-05," Lumentum Holdings Inc expects Android smartphone makers to launch devices with facial recognition technology this year, including Huawei's Honor V20 and Samsung's Galaxy S10 5G. The company forecast slightly lower than expected revenue for the current quarter but expects new contracts and design wins from Android phone makers to help",52.459999,53.162498,52.032501,50.767143,127985200,0,"1. Topics:
+         a. Lumentum Holdings Inc
+         b. Android smartphone makers
+         c. Facial recognition technology
+         d. Huawei's Honor V20
+         e. Samsung's Galaxy S10 5G
+
+      2. Summarized Topics:
+         a. Lumentum Holdings Inc anticipates release of facial recognition-enabled Android devices in 2023 by major manufacturers like Huawei and Samsung.
+         b. New business opportunities for Lumentum Holdings Inc through contracts and design wins with Android phone makers.
+         c. Facial recognition technology integration in upcoming Android smartphones, specifically the Honor V",,,neutral_event
+20,6,2019-02-05," Apple's French division has reached an agreement to pay undeclared back taxes estimated at around 571 million euros, following a multi-year audit by the French tax administration. The details of the payment amount will be published in public accounts. France is pushing for an EU-wide tax on digital and software companies like Apple,",52.459999,53.162498,52.032501,50.767143,127985200,0,"Topic 1:
+      Apple's French division reaches agreement to pay undeclared back taxes worth approximately 571 million euros following a multi-year audit by the French tax administration.
+
+      Keywords: Apple, French division, undeclared back taxes, audit, French tax administration, payment amount, public accounts.
+
+      Topic 2:
+      France pushes for EU-wide tax on digital and software companies, including Apple.
+
+      Keywords: France, EU-wide tax, digital and software companies, Apple.",,,neutral_event
+21,7,2019-02-12," Japan Display Inc, an ailing Apple supplier, is reportedly set to receive up to 80 billion yen in funding from a consortium of Chinese and Taiwanese investors, led by China's state-backed Silk Road Fund and Taiwanese panel maker TPK Holding Co. This would make the group the top share",66.817497,67.0625,65.862503,64.805229,94487200,0,"1. Topics: Japan Display Inc, Apple supplier, funding, Chinese investors, Taiwanese investors, Silk Road Fund, TPK Holding Co
+      2. Summary: Japanese display manufacturer Japan Display Inc is set to receive up to 80 billion yen in funding from a consortium of Chinese and Taiwanese investors. The group is led by China's state-backed Silk Road Fund and Taiwanese panel maker TPK Holding Co, making them the top shareholders.
+      
+      News Articles: Elon Musk, Tesla CEO, has announced that the company will be increasing production of its Model 3 sedan at its California factory in an effort to meet growing demand for the electric vehicle",,,neutral_event
+22,7,2019-02-12," Goldman analyst Rod Hall anticipates Apple's traffic acquisition costs from Google searches will decelerate significantly in 2019, leading to an estimated 16% reduction in services revenue growth compared to the prior year's 24%. To offset this decline, Apple is expected to launch its Apple Prime bundle with original video",66.817497,67.0625,65.862503,64.805229,94487200,-1,"Topic 1:
+      Apple's services revenue growth deceleration in 2019
+      Keywords: Apple, services revenue, growth, deceleration, 2019
+
+      Topic 2:
+      Impact of Google searches on Apple's traffic acquisition costs
+      Keywords: Apple, Google, searches, traffic acquisition, costs
+
+      Topic 3:
+      Expected reduction in Apple's services revenue growth compared to prior year
+      Keywords: Apple, services revenue, growth, reduction, prior year
+
+      Topic 4:
+      Apple's anticipated response to revenue decline with launch of Apple Prime bundle
+      Keywords: Apple,",,negative_event,
+23,7,2019-02-12," The U.K. government has released a report recommending greater regulation of tech companies, specifically Google, Facebook, and Apple, in how they distribute news content. The companies are urged to sign a code of conduct governing their commercial agreements with publishers. Additionally, the U.K.'s competition authority is encouraged to investigate online advertising for fair competition",66.817497,67.0625,65.862503,64.805229,94487200,0,"1. **Topic 1:** U.K. government and tech companies (Google, Facebook, Apple)
+      2. **Topic 2:** Regulation of tech companies in news content distribution
+      3. **Topic 3:** Recommendation of a code of conduct for commercial agreements between publishers and tech companies
+      4. **Topic 4:** U.K.'s competition authority investigation into online advertising for fair competition.
+
+      Summary: The U.K. government has suggested stricter regulations for Google, Facebook, and Apple regarding their handling of news content distribution. They recommend a code of conduct for commercial agreements between these tech companies and publishers, while also urging the U.K.'s",,,neutral_event
+24,8,2019-02-22," Apple collaborates with Ant Financial Services Group and local banks in China, providing interest-free financing for iPhone purchases as part of an effort to revive sales. The scheme, available through Huabei, is open to customers purchasing products worth a minimum of 4,000 yuan from Apple. Economic slowdown and increased competition are contributing factors",42.895,43.25,42.845001,41.98513,75652800,1,"Topic 1:
+      Apple's collaboration with Ant Financial Services Group and local banks in China
+      
+      Keywords: Apple, Ant Financial Services Group, local banks, China
+
+      Topic 2:
+      Interest-free financing for iPhone purchases
+
+      Keywords: iPhone, financing, interest-free
+
+      Topic 3:
+      Effort to revive sales
+
+      Keywords: sales, revenue, growth
+
+      Topic 4:
+      Minimum purchase requirement of 4,000 yuan
+
+      Keywords: minimum purchase, 4,000 yuan
+
+      Topic 5:
+      Economic slowdown as",positive_event,,
+25,8,2019-02-22," Kraft Heinz suffered a significant loss in premarket trade due to a disappointing earnings report and an SEC investigation. The company wrote down $15.4 billion from its Kraft and Oscar Mayer trademarks, and is under scrutiny for accounting practices. Roku stock surged following better-than-expected quarterly results.",42.895,43.25,42.845001,41.98513,75652800,-1,"1. Event 1: Kraft Heinz Earnings Disappointment and SEC Investigation
+         Topics: Kraft Heinz, earnings report, significant loss, premarket trade, SEC investigation
+
+      2. Event 2: Roku Better-than-Expected Quarterly Results
+         Topics: Roku, quarterly results, stock surge",,negative_event,
+26,8,2019-02-20," WhatsApp, owned by Facebook, has acknowledged a security bug allowing iPhone users to bypass its new privacy feature that requires Touch ID or Face ID for app access. The issue arises when users select any interval other than immediate verification. A user on Reddit first reported the problem, and Reuters confirmed it. WhatsApp said a fix",42.797501,43.330002,42.747501,41.756977,104457600,0,"1. Subjects: WhatsApp, Facebook, iPhone users, privacy feature, Touch ID, Face ID, app access
+      2. Events: WhatsApp acknowledges security bug, issue arises when selecting interval other than immediate verification, user reports problem on Reddit, Reuters confirms the issue, WhatsApp promises a fix
+      3. Keywords: WhatsApp, Facebook, iPhone users, privacy feature, Touch ID, Face ID, app access, security bug, interval, immediate verification, fix
+      4. Topics:
+         - WhatsApp and Facebook face a security issue with their new privacy feature for iPhone users.
+         - The problem occurs when users choose an interval other than immediate",,,neutral_event
+27,9,2019-02-27," Apple announced plans to lay off approximately 190 employees from its self-driving car project, Project Titan. The layoffs include software and hardware engineers, product design engineers, an ergonomics engineer, a machine shop supervisor, and possibly machinists. This is the first major shakeup under Doug Field, who returned",43.302502,43.75,43.182499,42.446327,111341600,-1,"1. Company: Apple
+      2. Project: Project Titan (Apple's self-driving car project)
+      3. Event: Layoffs
+      4. Keywords: Approximately 190 employees, Software engineers, Hardware engineers, Product design engineers, Ergonomics engineer, Machine shop supervisor, Machinists, Doug Field (returned)
+      5. Summary: Apple announced layoffs affecting approximately 190 employees from its self-driving car project, Project Titan. The positions include software and hardware engineers, product design engineers, an ergonomics engineer, a machine shop supervisor, and possibly machinists. This marks the first major shakeup",,negative_event,
+28,9,2019-02-27," Spotify, the world's leading paid music streaming service, entered the Indian market on Tuesday. The Swedish company will offer a free version with ads and a premium ad-free one for 119 rupees ($1.67) per month. Apple, Google, Amazon, and Reliance Industries already have established local players",43.302502,43.75,43.182499,42.446327,111341600,0,"Topic 1:
+      ------------------
+      Company: Spotify
+      Action: Entered Indian market
+      Keywords: Paid music streaming service, World's leading, Indian market
+
+      Summary: Spotify, the world-leading paid music streaming service, entered the Indian market on Tuesday.",,,neutral_event
+29,9,2019-02-26," AAC Technologies Holdings Inc, listed on the Hong Kong Stock Exchange, saw its shares plummet over 13% after announcing a significant decrease in first-quarter profits, forecasted between 65-75% year-on-year. The drop was attributed to reduced orders from customers and weak seasonal demand",43.427502,43.825001,43.2925,42.315266,68280800,-1,"Topic 1:
+      Company: AAC Technologies Holdings Inc
+      Event: Significant decrease in first-quarter profits
+      Keywords: Hong Kong Stock Exchange, plummeted, shares, 13%, year-on-year, forecasted, between 65-75%
+
+      Summary: AAC Technologies Holdings Inc experienced a significant decrease in first-quarter profits, causing its shares to drop by over 13%. The exact decline was forecasted to be between 65-75% year-on-year.
+
+      Topic 2:
+      Company: AAC Technologies Holdings Inc
+      Event: Reduced orders from customers",,negative_event,
+30,10,2019-03-05," Mozilla, the Firefox browser maker, is considering revoking DarkMatter's authority to certify websites as safe due to reports linking the cybersecurity firm to a UAE-based intelligence agency's hacking program. Reuters reported that DarkMatter provided staff for Project Raven, which hacked into the internet accounts",52.7225,52.959999,52.557499,51.398247,83569600,0,"1. Topic: Mozilla (organization)
+      2. Topic: Firefox browser maker
+      3. Topic: DarkMatter (cybersecurity firm)
+      4. Event: Considering revoking DarkMatter's authority
+      5. Keywords: reports, linking, UAE-based intelligence agency, hacking program, Project Raven
+      6. Summary: Mozilla is evaluating the potential removal of DarkMatter's ability to certify websites as secure due to allegations that they have ties to a UAE intelligence agency and were involved in hacking activities through Project Raven.",,,neutral_event
+31,10,2019-03-05," In the news article, Michael Jackson's music was removed from radio playlists and Oprah Winfrey faced backlash after broadcasting a documentary titled ""Leaving Neverland,"" in which two adult men accused him of child abuse during their childhood. The documentary received mixed reactions, with some expressing horror and disbelief while others questioned",52.7225,52.959999,52.557499,51.398247,83569600,-1,"1. Michael Jackson: The removal of Michael Jackson's music from radio playlists and the backlash against Oprah Winfrey for broadcasting the documentary ""Leaving Neverland"" are the main subjects in this news article.
+      2. Documentary ""Leaving Neverland"": A documentary titled ""Leaving Neverland"" was aired, featuring two adult men accusing Michael Jackson of child abuse during their childhood.
+      3. Child abuse allegations: The central event or action described in the headline is the accusation of child abuse against Michael Jackson by two men.
+      4. Keywords: Michael Jackson, documentary, Leaving Neverland, child abuse, accusations.
+      5. Topics",,negative_event,
+32,10,2019-03-07," The European Commission has initiated an investigation into tax rulings granted by Luxembourg to Finnish firm Huhtamaki, suspecting them of being state aid. The probe focuses on three rulings issued between 2009 and 2013, with the earliest one revealed in the Luxleaks scandal. The Commission believes these rul",50.82,51.110001,50.672501,49.807678,45448000,0,"1. Topic: European Commission Investigation
+         - The European Commission is conducting an investigation into tax rulings granted by Luxembourg to Finnish firm Huhtamaki.
+         - Suspected of being state aid.
+
+      2. Topic: Tax Rulings Granted to Huhtamaki
+         - Three specific rulings issued between 2009 and 2013 are under investigation.
+         - Previously revealed in the Luxleaks scandal.
+
+      3. Topic: Luxembourg
+         - The country where the tax rulings were granted.
+
+      4. Topic: Finnish Firm Huhtamaki
+         - The recipient of the tax rul",,,neutral_event
+33,11,2019-03-12," The United States opposes France's digital services tax, viewing it as discriminatory against American businesses. The U.S. prefers international tax reform at the OECD to tackle the broader challenges facing the international tax system. Digital giants can currently book profits in countries with the lowest taxes regardless of where their customers are located. France",64.577499,64.8825,64.072502,63.64975,114430400,0,"1. Topic 1: United States (US) opposition to France's digital services tax
+      2. Topic 2: France's digital services tax
+      3. Topic 3: Discriminatory tax against American businesses
+      4. Topic 4: International tax reform
+      5. Topic 5: OECD (Organisation for Economic Co-operation and Development)
+      6. Topic 6: Digital giants
+      7. Topic 7: Profits booking in countries with lowest taxes
+
+   Summary:
+   1. The US opposes France's digital services tax, considering it discriminatory against American businesses.
+   2. France",,,neutral_event
+34,11,2019-03-12," Boeing's NYSE BA stock experienced significant losses in premarket trade on Tuesday, as the company faced continued scrutiny following the second crash of a 737 Max 8 plane. The crashes resulted in groundings of the fleet in Singapore, Australia, China, and Indonesia, but not in the US, where design changes are",64.577499,64.8825,64.072502,63.64975,114430400,0,"1. Boeing's 737 Max 8 planes: Two crashes have led to scrutiny and stock losses for Boeing.
+      2. Groundings of the fleet: Singapore, Australia, China, and Indonesia have grounded their fleets due to crashes.
+      3. US regulations: Design changes in the US have prevented a grounding of the fleet there.",,,neutral_event
+35,11,2019-03-15," Stocks rallied Friday as technology companies surged following reports of progress in U.S.-China trade talks, with the S&P 500 and Nasdaq posting their best weekly gains since November. The Philadelphia Semiconductor Index jumped 2.9%, while the S&P 500 Technology Index",46.212502,46.8325,45.935001,45.177055,156171600,1,"1. Topics: U.S.-China trade talks, stocks, technology companies, S&P 500, Nasdaq, Philadelphia Semiconductor Index, S&P 500 Technology Index
+      2. Summary: Stocks experienced a rally on Friday due to progress in U.S.-China trade talks. Technology companies saw significant gains, leading the way for the S&P 500 and Nasdaq's best weekly performance since November. The Philadelphia Semiconductor Index surged by 2.9%, while the S&P 500 Technology Index also posted impressive growth.",positive_event,,
+36,12,2019-03-21," The European Union's Antitrust Commissioner, Margrethe Vestager, has announced her candidacy for the presidency of the next European Commission. Known for enforcing competition rules and fining large corporations like Google and Apple, Vestager was put forward by the European liberal party, alongside six other prominent politicians. With",47.505001,49.0825,47.452499,47.354347,204136800,-1,"1. EU Antitrust Commissioner Margrethe Vestager
+      2. Candidacy for European Commission presidency
+      3. Enforcing competition rules
+      4. Fining corporations (Google, Apple)
+      5. Endorsed by European liberal party
+      6. Six other prominent politicians also candidates.",,negative_event,
+37,12,2019-03-21," Tech stocks, led by Apple Inc., drove a broad market rally on Wall Street as investors' concerns over economic slowdown due to the Federal Reserve were alleviated by positive economic data. The Dow Jones Industrial Average rose 0.84%, S&P 500 gained 1.09%, and Nasdaq Composite",47.505001,49.0825,47.452499,47.354347,204136800,1,"1. Topics: Tech stocks, Apple Inc., market rally, Wall Street, investors, economic data, Federal Reserve, economic slowdown
+      2. Summary: Tech stocks, led by Apple Inc., rallied on Wall Street as investors' concerns over an economic slowdown due to the Federal Reserve were alleviated by positive economic data.
+      The Dow Jones Industrial Average rose 0.84%, S&P 500 gained 1.09%, and Nasdaq Composite experienced similar growth.",positive_event,,
+38,12,2019-03-21," Tesla has filed a lawsuit against a former engineer, Guangzhi Cao, for allegedly copying Autopilot source code before joining Chinese startup Xiaopeng Motors Technology Company Ltd. The company also accused four former employees and U.S. self-driving car startup Zoox of stealing proprietary information",47.505001,49.0825,47.452499,47.354347,204136800,0,"1. Topic 1: Tesla (Company)
+      2. Topic 2: Lawsuit
+      3. Topic 3: Former engineer, Guangzhi Cao
+      4. Topic 4: Xiaopeng Motors Technology Company Ltd. (Chinese startup)
+      5. Topic 5: Alleged theft of Autopilot source code
+      6. Topic 6: Proprietary information
+      7. Key Events: Tesla files lawsuit against former engineer and Chinese startup for alleged intellectual property theft.
+      8. Summary: Tesla accuses a former engineer, Guangzhi Cao, and Xiaopeng Motors Technology",,,neutral_event
+39,13,2019-03-29," Daimler, a German carmaker, has lodged a complaint against Nokia with EU antitrust regulators over essential patents for car communications. The tensions between tech companies and the auto industry are heightening as tech firms' technologies become crucial for navigation systems, vehicle-to-vehicle communication, and self-driving",47.4575,47.52,47.134998,46.106716,94256000,-1,"1. Daimler (German carmaker)
+      2. Nokia (tech company)
+      3. EU antitrust regulators
+      4. Complaint filed over essential patents for car communications
+      5. Tech firms' technologies becoming crucial for:
+         a. Navigation systems
+         b. Vehicle-to-vehicle communication
+         c. Self-driving technology
+
+Topics:
+1. Daimler vs Nokia dispute
+2. EU antitrust investigation into essential patents for car communications
+3. Role of tech firms in the auto industry (navigation systems, vehicle-to-vehicle communication, self-driving technology)",,negative_event,
+40,13,2019-03-29," Apple announced the cancellation of its AirPower wireless charging mat, a product intended to charge up to three devices at once, including an iPhone, Apple Watch, and AirPods. The company stated that it could not meet its high standards for the project and apologized to customers. Apple continues to push for wireless technology but has faced challenges with fast,",47.4575,47.52,47.134998,46.106716,94256000,-1,"1. Topic 1: Apple's AirPower wireless charging mat
+         - Event: Cancellation of the product
+         - Keywords: Apple, AirPower, wireless charging mat, cancellation
+
+      2. Topic 2: Devices compatible with AirPower
+         - Events: Included iPhone, Apple Watch, and AirPods for charging
+         - Keywords: iPhone, Apple Watch, AirPods, charge
+
+      3. Topic 3: High standards of Apple
+         - Event: Unable to meet these standards for the project
+         - Keywords: high standards, project, Apple
+
+      4. Topic 4: Apology to customers
+         - Event",,negative_event,
+41,13,2019-03-25," This news article reports on the pressured decline of Wall Street indices on Monday, with concerns over economic outlook dominating despite positive developments. The yield curve inversion, which had occurred on Friday, returned to normal but failed to ease investor anxiety. The Chicago Federal Reserve Bank President and former Fed Chairwoman downplayed recession concerns, while",47.877499,47.994999,46.650002,45.813015,175381200,0,"1. Economic outlook: Concerns over the economic outlook dominated the news despite positive developments.
+      2. Wall Street indices: Decline of Wall Street indices on Monday.
+      3. Yield curve inversion: Occurred on Friday but failed to ease investor anxiety when it returned to normal.
+      4. Investor anxiety: Prevailed due to economic concerns, despite the yield curve returning to normal.
+      5. Chicago Federal Reserve Bank President and former Fed Chairwoman: Downplayed recession concerns.
+
+   Summary:
+   1. Economic concerns dominated news despite positive developments.
+   2. Wall Street indices experienced a decline.
+   3. Yield curve inversion",,,neutral_event
+42,14,2019-04-04," Facebook has introduced a business version of WhatsApp, its encrypted messaging app, for iOS devices. The free app will initially be available in Brazil, Germany, Indonesia, India, Mexico, the UK, and the US, with a global rollout planned. It allows small businesses to communicate with customers and currently boasts over 5 million",48.697498,49.092499,48.285,47.499989,76457200,0,"1. Subjects/Entities: Facebook, WhatsApp, iOS devices, small businesses, customers
+      2. Key Events/Actions: Introduction of business version of WhatsApp for iOS devices, Initial availability in select countries (Brazil, Germany, Indonesia, India, Mexico, UK, US), Global rollout planned
+      3. Relevant Keywords: Business version, WhatsApp, iOS devices, Small businesses, Customers, Communication, Availability, Rollout
+      4. Summarized Topics:
+          - Facebook introduces business version of WhatsApp for iOS devices
+          - Initial availability in Brazil, Germany, Indonesia, India, Mexico, UK, US with global rollout planned
+",,,neutral_event
+43,14,2019-04-04," In response to the deadly mosque shootings in Christchurch, Australia passed a new law fining social media and web hosting companies up to 10% of their global turnover and imprisoning executives for up to three years if they fail to remove violent content expeditiously. The legislation specifically targets videos or photographs showing murder, torture",48.697498,49.092499,48.285,47.499989,76457200,0,"1. **Australia's New Law**: Australia passes a new law targeting social media and web hosting companies.
+      2. **Subjects**: Australia, social media and web hosting companies.
+      3. **Key Events**: Passing of a new law, targeting specific content (murder, torture).
+      4. **Relevant Keywords**: Australia, new law, social media, web hosting companies, violent content, murder, torture.
+      5. **Summary Topics**: Australia enacts stricter regulations on social media and web hosting companies for removing violent content.",,,neutral_event
+44,14,2019-04-04," EU antitrust regulators should consider compelling tech giants like Google and Amazon to share their data with competitors, instead of breaking them up, according to a report from three academics appointed by European Commissioner Margrethe Vestager. The experts also recommended faster investigations and stronger arguments against ""killer acquisitions"" to prevent dominance",48.697498,49.092499,48.285,47.499989,76457200,1,"Topic 1:
+       EU antitrust regulators and their potential actions towards tech giants (Google and Amazon)
+      
+      Keywords: EU antitrust regulators, tech giants, Google, Amazon, compelling, share data, competitors, breaking up, investigations, stronger arguments, ""killer acquisitions"", prevent dominance.",positive_event,,
+45,15,2019-04-12," In this article, a Chinese-Taiwanese group led by TPK Holding and Harvest Group will take control of Japan Display with a 21 billion bailout plan, making them the company's biggest shareholders. The rescue comes after previous government bailouts failed to help Japan Display reduce its dependence on Apple, whose slowing",65.267502,65.827499,65.169998,64.21154,67181600,-1,"1. Topic: Japanese Display Company
+      2. Event: Chinese-Taiwanese group (TPK Holding and Harvest Group) takes control with a 21 billion bailout plan
+      3. Keywords: Japanese Display, Chinese-Taiwanese group, TPK Holding, Harvest Group, bailout plan, biggest shareholders
+      4. Summary: A Chinese-Taiwanese consortium, consisting of TPK Holding and Harvest Group, assumes control over the Japanese Display Company through a 21 billion bailout agreement.
+
+      News Article 2: The European Union (EU) has agreed to extend its sanctions against Russia for another six months due",,negative_event,
+46,15,2019-04-11," Apple has nearly doubled the number of suppliers using clean energy for production, including major iPhone manufacturers Hon Hai Precision Industry and Taiwan Semiconductor Manufacturing. The companies are part of Apple's initiative to reduce its carbon footprint by encouraging suppliers to build their own renewable energy projects or sign power purchase agreements with new renewable energy",64.332497,64.462502,63.845001,62.982265,103272000,1,"Topic 1:
+      Apple increasing number of clean energy suppliers
+      
+      Keywords: Apple, clean energy, suppliers, renewable energy projects, power purchase agreements.
+
+      Topic 2:
+      Major iPhone manufacturers adopting clean energy
+
+      Keywords: Hon Hai Precision Industry, Taiwan Semiconductor Manufacturing, clean energy, iPhone manufacturers.
+
+      Topic 3:
+      Apple's initiative to reduce carbon footprint
+
+      Keywords: Apple, carbon footprint, renewable energy, suppliers, reduction.",positive_event,,
+47,15,2019-04-11,"Apple is under investigation by the Dutch competition agency, ACM, for allegedly favoring its own apps on the App Store. The probe may expand to Google's Play Store due to similar business practices. Indications of possible anti-competitive behavior include preferential treatment for Apple's own apps, mandatory use of its payment systems with",64.332497,64.462502,63.845001,62.982265,103272000,0,"1. Apple: Subject (Company under investigation)
+      2. Dutch competition agency, ACM: Subject (Regulatory body initiating the investigation)
+      3. Allegedly favoring its own apps: Key Event (Apple accused of bias towards its own apps)
+      4. App Store: Location of alleged favoritism
+      5. Indications of possible anti-competitive behavior: Key Issue (Potential violation of competition laws)
+      6. Preferential treatment for Apple's own apps: Description of the issue
+      7. Mandatory use of its payment systems: Description of the issue
+      8. Probe may expand to Google's Play Store: Potential Expansion",,,neutral_event
+48,16,2019-04-18," In the news article, Taiwan Semiconductor Manufacturing Company (TSMC), the world's largest contract chipmaker, reported a steep quarterly profit drop of 32% due to weak global demand for smartphones and the prolonged U.S.-China trade war. However, TSMC expressed optimism about the out",50.779999,51.037498,50.630001,49.483093,96783200,0,"1. Topic: Taiwan Semiconductor Manufacturing Company (TSMC)
+      2. Event: Reported a steep quarterly profit drop of 32%
+      3. Reason for Profit Drop: Weak global demand for smartphones and the prolonged U.S.-China trade war
+      4. Keywords: TSMC, profit drop, weak global demand, smartphones, U.S.-China trade war, optimism
+
+      ------------------------------------------------------------------------------------------------------------------
+
+      News Article: Elon Musk's SpaceX successfully launched 60 Starlink satellites into orbit from Cape Canaveral, Florida, marking a significant step forward",,,neutral_event
+49,16,2019-04-18," In this article, a senior U.S. official expresses concern over China's attempts to exert influence on Taiwan's upcoming presidential election, including disinformation campaigns and direct interference. China's military pressure on the self-ruled island, which Beijing views as its sacred territory, has increased, with Beijing suspecting President Ts",50.779999,51.037498,50.630001,49.483093,96783200,-1,"1. Topic 1: U.S.-China Relations
+         Summary: A senior U.S. official voices concern over China's influence on Taiwan's presidential election through disinformation campaigns and direct interference.
+
+      2. Topic 2: Taiwan Presidential Election
+         Summary: Upcoming election in Taiwan is a focus of concern due to potential Chinese interference.
+
+      3. Topic 3: China's Influence Campaigns
+         Summary: Beijing is suspected of engaging in disinformation campaigns to influence the outcome of Taiwan's presidential election.
+
+      4. Topic 4: Direct Interference
+         Summary: China is accused of attempting direct interference in Taiwan",,negative_event,
+50,16,2019-04-18," Apple plans to open a Material Recovery lab in Austin, Texas, to research new methods for recovering valuable materials from its devices using robotics and machine learning. The 9,000 square foot lab will be located at the same facility as Daisy, an Apple-built robot that can disassemble iPhones at a",50.779999,51.037498,50.630001,49.483093,96783200,1,"1. Topic: Apple's Material Recovery Lab in Austin, Texas
+         - Keywords: Apple, Material Recovery lab, Austin, Texas, Research, Robotics, Machine learning, Daisy, Disassemble, iPhones.
+
+      2. Topic: Apple's New Technologies for Valuable Material Recovery
+         - Keywords: Apple, Valuable materials, Recovery, Robotics, Machine learning.",positive_event,,
+51,17,2019-04-23," The social media company Snap reported better-than-expected earnings for Q1, with a loss of 10 cents per share and revenue of $320.4 million. The popularity of its original shows and the launch of a new Android app drove these results, leading to an increase in daily active users (DAUs) to ",51.107498,51.9375,50.974998,50.361782,93292000,0,"1. Snap: The social media company
+      2. Q1 Earnings: Reported better-than-expected results with a loss of 10 cents per share and revenue of $320.4 million
+      3. Original Shows: Popularity of Snap's original content drove earnings growth
+      4. New Android App: Launch contributed to earnings increase
+      5. Daily Active Users (DAUs): Increased due to the success of original shows and new app.
+
+Summary:
+1. Snap: Earnings boosted by popular original shows and new Android app
+2. Q1 Financial Performance: Better-than-expected loss and revenue growth
+3. User Eng",,,neutral_event
+52,17,2019-04-23," Chinese tech giant Tencent Holdings has invested in Argentine mobile banking service Uala, joining investors including George Soros and Point72 Ventures. The investment significantly raised Uala's valuation and will help accelerate its growth plans. Uala offers prepaid Mastercards, bill payment, metro card top up, and digital",51.107498,51.9375,50.974998,50.361782,93292000,1,"1. Topic 1: Chinese tech giant Tencent Holdings (Subject)
+      2. Topic 2: Argentine mobile banking service Uala (Subject)
+      3. Topic 3: Investment (Key Event)
+      4. Topic 4: George Soros and Point72 Ventures (Investors)
+      5. Topic 5: Significantly raised valuation (Impact of investment)
+      6. Topic 6: Growth plans (Planned actions)
+      7. Topic 7: Prepaid Mastercards (Product offered by Uala)
+      8. Topic 8: Bill payment (Service offered by Uala",positive_event,,
+53,17,2019-04-23," This news article reports that India's ban on Chinese video app TikTok is causing daily financial losses of up to $6.6 million for its developer, Beijing Bytedance Technology Co. The ban has put over 250 jobs at risk and has also impacted the user base, losing close to one million new users per day",51.107498,51.9375,50.974998,50.361782,93292000,-1,"Topic 1:
+      India's ban on Chinese video app TikTok
+
+      Summary:
+      The news article discusses the financial implications of India's ban on the Chinese video-sharing app TikTok. The ban has resulted in daily losses of approximately $6.6 million for its developer, Beijing Bytedance Technology Co. Additionally, over 250 jobs are at risk and the user base is decreasing by nearly one million users per day.",,negative_event,
+54,18,2019-04-29," Spotify reported better-than-expected Q1 revenue growth, reaching 100 million paid subscribers despite increasing competition from Apple Music, Amazon, and Google. The streaming giant seeks expansion in emerging markets and continues aggressive pricing strategies. The company aims to grow at over 30% per year with 107-11",51.099998,51.4925,50.965,49.665138,88818800,1,"1. Subjects/Entities: Spotify, Q1 revenue growth, paid subscribers, Apple Music, Amazon, Google, emerging markets, aggressive pricing strategies
+      2. Key Events/Actions: Reported better-than-expected Q1 revenue growth, Reached 100 million paid subscribers, Seeks expansion in emerging markets, Continues aggressive pricing strategies
+      3. Summarized Topics:
+         - Spotify's Financial Performance: Better-than-expected Q1 revenue growth and reaching 100 million paid subscribers
+         - Competition: Presence of Apple Music, Amazon, and Google in the market
+         - Expansion Plans: Focus on emerging markets for",positive_event,,
+55,18,2019-04-29," The S&P 500 reached a new intraday record high on Monday, fueled by strong consumer spending data and tame inflation. The index, along with the Nasdaq, closed at another record. The bull market's longevity is seen continuing due to hopes of trade deal resolution, upbeat earnings,",51.099998,51.4925,50.965,49.665138,88818800,1,"1. S&P 500: Reached new intraday record high, fueled by strong consumer spending data and tame inflation.
+      2. Stock Market: S&P 500 and Nasdaq closed at record highs.
+      3. Economy: Consumer spending data indicated strength.
+      4. Inflation: Remained tame.
+      5. Trade Deals: Hopes of resolution continue to support the market.
+      6. Earnings: Upbeat earnings contribute to bull market's longevity.
+
+      Summary:
+      - S&P 500 and Stock Market reached record highs due to strong consumer spending data",positive_event,,
+56,18,2019-04-29," This news article reports on Spotify's first quarter financial results. The company exceeded revenue expectations, with revenues growing by 33% to €1.51 billion, driven mainly by paid user subscriptions which accounted for 92% of revenues. Spotify reached a milestone of 100 million paid",51.099998,51.4925,50.965,49.665138,88818800,0,"1. Company: Spotify
+      2. Financial Results: Q1 2023
+      3. Key Events: Exceeded revenue expectations, Revenues grew by 33% to €1.51 billion, Paid user subscriptions accounted for 92% of revenues, Milestone of 100 million paid users reached.
+      4. Topics:
+         - Spotify
+         - Financial Results
+         - Q1 2023
+         - Revenue Growth (33%)
+         - Paid User Subscriptions
+         - Milestone (100 million paid users)",,,neutral_event
