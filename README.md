@@ -33,6 +33,47 @@ This is an example of the input to be processed by the model:
 
 ![input](https://github.com/user-attachments/assets/e0a80ed1-4a45-4553-b9a8-19929de16a8c)
 
+Summary of my learnings:
+
+Model Development and Hardware Optimization:
+- Explored various classifier configurations and tuning parameters
+- Evaluated performance trade-offs across different TPUs and GPUs, considering both cost and processing speed
+
+Data Processing and Analysis:
+- Pandas and NumPy for data manipulation and numerical operations
+- JSON parsing for structured data handling
+- Matplotlib and Seaborn for data visualization
+
+Machine Learning Framework (scikit-learn):
+- Ensemble Methods:
+  - Gradient Boosting Classifier
+  - Random Forest Classifier
+  - Decision Tree Classifier
+- Model Optimization:
+  - GridSearchCV for hyperparameter tuning
+- Evaluation Metrics:
+  - Confusion Matrix
+  - Accuracy Score
+  - F1 Score
+  - Precision Score
+  - Recall Score
+
+Natural Language Processing Tools:
+- Word Embeddings:
+  - Gensim's Word2Vec
+  - GloVe (with glove2word2vec conversion)
+  - KeyedVectors for embedding management
+- Transformer Models:
+  - PyTorch
+  - Sentence Transformers
+- Large Language Models:
+  - Llama
+  - Mistral-7B with configurable parameters:
+    - Maximum tokens
+    - Temperature
+    - Top-p sampling
+    - Top-k sampling
+
 These are examples of the resulting outputs with a summary extraction, keywords, topics, stock value and price after summarizing the news input above when you enter a specic date (interactive mode):
 
 ![output-1](https://github.com/user-attachments/assets/b7e9cc0c-3518-4206-8ad2-de126e4f3084)
