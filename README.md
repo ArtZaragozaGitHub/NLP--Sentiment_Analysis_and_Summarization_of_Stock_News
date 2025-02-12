@@ -33,6 +33,14 @@ This is an example of the input to be processed by the model:
 
 ![input](https://github.com/user-attachments/assets/e0a80ed1-4a45-4553-b9a8-19929de16a8c)
 
+These are examples of the resulting outputs with a summary extraction, keywords, topics, stock value and price after summarizing the news input above when you enter a specic date (interactive mode):
+
+![output-1](https://github.com/user-attachments/assets/b7e9cc0c-3518-4206-8ad2-de126e4f3084)
+
+And this is an example when you just need a summary for the top 3 positive/negative events per week:
+
+![output-2](https://github.com/user-attachments/assets/e56d419b-28c4-4f91-bba4-1255ee0f8ada)
+
 Summary of my learnings:
 
 Model Development and Hardware Optimization:
@@ -74,13 +82,7 @@ Natural Language Processing Tools:
     - Top-p sampling
     - Top-k sampling
 
-These are examples of the resulting outputs with a summary extraction, keywords, topics, stock value and price after summarizing the news input above when you enter a specic date (interactive mode):
 
-![output-1](https://github.com/user-attachments/assets/b7e9cc0c-3518-4206-8ad2-de126e4f3084)
-
-And this is an example when you just need a summary for the top 3 positive/negative events per week:
-
-![output-2](https://github.com/user-attachments/assets/e56d419b-28c4-4f91-bba4-1255ee0f8ada)
 
 
 
